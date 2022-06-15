@@ -92,28 +92,6 @@ A place of knowedge
 - [eCXD prep](https://github.com/CyberSecurityUP/eCXD-Preparation)
 - [eWPTX prep](https://github.com/CyberSecurityUP/eWPTX-Preparation)
 
-# Certifications
-
-[ROADMAP](https://pauljerimy.com/security-certification-roadmap/)
-
-- Security+ = CompTIA
-- CySA+ = CompTIA
-- CSA = EC-Council
-- BTL1 = Security Blue Team
-- CHFI = EC-Council
-- ECIH = EC-Council
-- eCTHP = eLearnSecurity
-- eCMAP = eLearnSecurity
-- eNDP = eLearnSecurity
-- eCDFP = eLearnSecurity
-- eCRE = eLearnSecurity
-- CEH = EC-Council
-- SOC200 = Offensive Security
-- CyberOps = Cisco
-- SOC Analyst = Microsoft
-- GSOC = GIAC
-- PenTest+ = CompTIA
-
 # AWS
 
 - [AWS Security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
