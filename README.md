@@ -48,6 +48,7 @@ A place of knowedge
 - [OWASP WrongSecrets](https://github.com/commjoen/wrongsecrets)
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
 - [HackerRank](https://www.hackerrank.com/dashboard)
+- [PortSwigger](https://portswigger.net/web-security)
 - [Explotation Education](https://exploit.education/)
 - [offensive security Labs](https://www.offensive-security.com/labs/individual/)
 - [capturetheflag BR](https://capturetheflag.com.br/login.php)
