@@ -12,6 +12,7 @@ A place of knowedge
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [awesome-web-security - Github](https://github.com/qazbnm456/awesome-web-security)
 - [Security List - Github](https://github.com/zbetcheckin/Security_list)
+- [Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 - [cert.br](https://www.cert.br/links/)
 
 ## Tools
