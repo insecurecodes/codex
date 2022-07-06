@@ -18,7 +18,7 @@ A place of knowedge
 ## Tools
 - [AllinOne](https://github.com/Z4nzu/hackingtool)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
-
+- [Legion](https://github.com/carlospolop/legion)
 ## Hacking methodology
 - [HackTricks Book](https://book.hacktricks.xyz/welcome/readme)
 - [Penetration Testing Cheat Sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet)
