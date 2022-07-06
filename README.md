@@ -19,6 +19,10 @@ A place of knowedge
 - [AllinOne](https://github.com/Z4nzu/hackingtool)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
 
+## Hacking methodology
+- [HackTricks Book](https://book.hacktricks.xyz/welcome/readme)
+- [Penetration Testing Cheat Sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet)
+- 
 ## Starting
 
 - [Cyber-Labs-Get-Started](https://github.com/Cyber-Labs/Cyber-Labs-Get-Started)
@@ -81,6 +85,7 @@ A place of knowedge
 - [Reverse Shell cheat sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
 - [Reverse shell one-liner](https://oscp.infosecsanyam.in/shells/linux-reverse-shell-one-liner)
 - [Bug Hunter Handbook](https://gowthams.gitbook.io/bughunter-handbook/)
+- [RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity)
 
 ## Blue Team
 
