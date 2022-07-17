@@ -111,7 +111,10 @@ A place of knowedge
 - [AWS Security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 - [prowler](https://github.com/prowler-cloud/prowler)
 
+# Wordlists
 
+- [SecLists](https://github.com/danielmiessler/SecLists)
+- [passphrase-wordlist](https://github.com/initstring/passphrase-wordlist)
 
 ## Extra Materials
 
