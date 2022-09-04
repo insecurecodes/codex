@@ -7,6 +7,7 @@ A place of knowedge
 - [Athenaeum](#athenaeum)
 - [Links](#links)
   - [General](#general)
+  - [Academy](#academy)
   - [Tools](#tools)
   - [Hacking methodology](#hacking-methodology)
   - [Starting](#starting)
@@ -31,6 +32,16 @@ A place of knowedge
 - [Security List - Github](https://github.com/zbetcheckin/Security_list)
 - [Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 - [cert.br](https://www.cert.br/links/)
+
+## Academy
+
+- [Cybrary](https://www.cybrary.it)
+- [TCM Security](https://academy.tcm-sec.com/courses)
+- [PortSwigger](https://portswigger.net/web-security)
+- [TryHackMe](https://tryhackme.com)
+- [PentesterLab](https://pentesterlab.com)
+- [Zero to Mastery](https://zerotomastery.io/courses/learn-ethical-hacking/)
+- [Ethical Hackers Academy](https://ethicalhackersacademy.com/collections/ethical-hacking-course)
 
 ## Tools
 
@@ -75,11 +86,9 @@ A place of knowedge
 
 - [HackTheBox](https://www.hackthebox.com)
 - [Vuln Hub](https://www.vulnhub.com)
-- [TryHackMe](https://tryhackme.com)
 - [OWASP WrongSecrets](https://github.com/commjoen/wrongsecrets)
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
 - [HackerRank](https://www.hackerrank.com/dashboard)
-- [PortSwigger](https://portswigger.net/web-security)
 - [Explotation Education](https://exploit.education/)
 - [offensive security Labs](https://www.offensive-security.com/labs/individual/)
 - [capturetheflag BR](https://capturetheflag.com.br/login.php)
