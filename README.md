@@ -21,7 +21,9 @@ A place of knowedge
   - [Red Team](#red-team)
   - [Blue Team](#blue-team)
 - [Certification material](#certification-material)
-- [AWS](#aws-1)
+- [Cloud](#cloud)
+  - [General](#general-2)
+  - [AWS](#aws-1)
 - [Wordlists](#wordlists)
   - [Extra Materials](#extra-materials)
 
@@ -150,7 +152,13 @@ A place of knowedge
 - [eCXD prep](https://github.com/CyberSecurityUP/eCXD-Preparation)
 - [eWPTX prep](https://github.com/CyberSecurityUP/eWPTX-Preparation)
 
-# AWS
+
+# Cloud
+
+## General
+
+- [Hacking The Cloud](https://hackingthe.cloud)
+## AWS
 
 - [AWSGoat](https://github.com/ine-labs/AWSGoat)
 
