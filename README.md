@@ -9,6 +9,9 @@ A place of knowedge
   - [General](#general)
   - [Academy](#academy)
   - [Tools](#tools)
+    - [General](#general-1)
+    - [AWS](#aws)
+    - [OSINT](#osint)
   - [Hacking methodology](#hacking-methodology)
   - [Starting](#starting)
   - [Best search engines for Pentesters and Security Professionals](#best-search-engines-for-pentesters-and-security-professionals)
@@ -18,7 +21,7 @@ A place of knowedge
   - [Red Team](#red-team)
   - [Blue Team](#blue-team)
 - [Certification material](#certification-material)
-- [AWS](#aws)
+- [AWS](#aws-1)
 - [Wordlists](#wordlists)
   - [Extra Materials](#extra-materials)
 
@@ -45,9 +48,22 @@ A place of knowedge
 
 ## Tools
 
+### General
 - [AllinOne](https://github.com/Z4nzu/hackingtool)
-- [Sherlock](https://github.com/sherlock-project/sherlock)
 - [Legion](https://github.com/carlospolop/legion)
+
+### AWS
+
+- [Pacu - AWS Exploitation framework](https://github.com/RhinoSecurityLabs/pacu)
+- [AWS Security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+- [prowler](https://github.com/prowler-cloud/prowler)
+- 
+
+### OSINT
+
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [spiderfoot](https://github.com/smicallef/spiderfoot)
+
 ## Hacking methodology
 
 - [HackTricks Book](https://book.hacktricks.xyz/welcome/readme)
@@ -136,8 +152,7 @@ A place of knowedge
 
 # AWS
 
-- [AWS Security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
-- [prowler](https://github.com/prowler-cloud/prowler)
+- [AWSGoat](https://github.com/ine-labs/AWSGoat)
 
 # Wordlists
 
