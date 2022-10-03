@@ -26,6 +26,8 @@ A place of knowedge
   - [AWS](#aws-1)
 - [Wordlists](#wordlists)
   - [Extra Materials](#extra-materials)
+- [Specific resources](#specific-resources)
+  - [Active Directory](#active-directory)
 
 ## General
 
@@ -183,3 +185,11 @@ A place of knowedge
 ```
 docker run  nubank/systems-engineer
 ```
+
+# Specific resources
+
+## Active Directory
+
+- [Active Directory Security](https://adsecurity.org)
+- [harmj0y](https://blog.harmj0y.net)
+
