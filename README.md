@@ -79,6 +79,13 @@ A place of knowedge
 
 ## Best search engines for Pentesters and Security Professionals
 
+- [LeakIX - Open services in real time](https://leakix.net)
+- [DNSDumpster](https://dnsdumpster.com)
+- [Open Buckets](https://buckets.grayhatwarfare.com)
+- [FullHunt - attack surfaces](https://fullhunt.io)
+- [grep.app - git repos](https://grep.app)
+- [TinEye - Reverse search images](https://tineye.com)
+- [OSINT Framework](https://osintframework.com)
 - [Shodan](https://www.shodan.io)
 - [Hunter.io](https://hunter.io)
 - [Censys](https://censys.io)
@@ -89,12 +96,16 @@ A place of knowedge
 - [WiGLE](https://www.wigle.net)
 - [PublicWWW](https://publicwww.com)
 - [Pulsedive](https://pulsedive.com)
-- [viz.greynoise](https://www.greynoise.io/viz)
+- [viz.greynoise - connected devices](https://www.greynoise.io/viz)
 - [fullhunt](https://fullhunt.io)
 - [ONYPHE](https://www.onyphe.io)
 - [SOCRadar](https://socradar.io)
 - [BinaryEdge](https://www.binaryedge.io)
 - [Ivre Rocks](https://ivre.rocks)
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [URL Scan](https://urlscan.io)
+- [WayBackMachine](https://web.archive.org)
+- [Netlas](https://netlas.io)
 
 ## CTF
 
