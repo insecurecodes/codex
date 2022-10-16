@@ -166,6 +166,7 @@ A place of knowedge
 
 # Wordlists
 
+- [trickest](https://github.com/trickest/wordlists)
 - [SecLists](https://github.com/danielmiessler/SecLists)
 - [passphrase-wordlist](https://github.com/initstring/passphrase-wordlist)
 
