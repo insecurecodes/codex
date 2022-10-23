@@ -65,7 +65,10 @@ A place of knowedge
 
 ### OSINT
 
+- [awesome-osint](https://github.com/jivoi/awesome-osint)
 - [Sherlock](https://github.com/sherlock-project/sherlock)
+- [maigret](https://github.com/soxoj/maigret)
+- [holehe](https://github.com/megadose/holehe)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 
 ## Hacking methodology
