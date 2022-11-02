@@ -29,6 +29,7 @@ A place of knowedge
   - [Extra Materials](#extra-materials)
 - [Specific resources](#specific-resources)
   - [Active Directory](#active-directory)
+- [Miscellaneous / Interesting stuff](#miscellaneous--interesting-stuff)
 
 ## General
 
@@ -218,3 +219,7 @@ docker run  nubank/systems-engineer
 - [Active Directory Security](https://adsecurity.org)
 - [harmj0y](https://blog.harmj0y.net)
 
+# Miscellaneous / Interesting stuff
+
+- [Security Zines](https://securityzines.com)
+- [Submarine Cable Map](https://www.submarinecablemap.com)
