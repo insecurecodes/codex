@@ -25,6 +25,7 @@ A place of knowedge
   - [General](#general-2)
   - [AWS](#aws-1)
 - [Wordlists](#wordlists)
+- [Bug Bounty programs](#bug-bounty-programs)
   - [Extra Materials](#extra-materials)
 - [Specific resources](#specific-resources)
   - [Active Directory](#active-directory)
@@ -184,6 +185,14 @@ A place of knowedge
 - [SecLists](https://github.com/danielmiessler/SecLists)
 - [passphrase-wordlist](https://github.com/initstring/passphrase-wordlist)
 
+# Bug Bounty programs
+
+ - [HackerOne](https://www.hackerone.com)
+ - [BugCrowd](https://bugcrowd.com/programs)
+ - [Intigriti](https://www.intigriti.com)
+ - [Synack](https://www.synack.com)
+  
+
 ## Extra Materials
 
 - [Cyber Sec Resources](https://github.com/scspcommunity/Cyber-Sec-Resources)
@@ -199,6 +208,7 @@ A place of knowedge
 - Nubank test
 ```
 docker run  nubank/systems-engineer
+
 ```
 
 # Specific resources
