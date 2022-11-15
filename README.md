@@ -111,6 +111,8 @@ A place of knowedge
 - [URL Scan](https://urlscan.io)
 - [WayBackMachine](https://web.archive.org)
 - [Netlas](https://netlas.io)
+- [Natlas](https://natlas.io)
+- [Search Source Codes](https://searchcode.com/)
 
 ## CTF
 
