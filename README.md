@@ -25,6 +25,7 @@ A place of knowedge
   - [General](#general-2)
   - [AWS](#aws-1)
 - [Wordlists](#wordlists)
+- [Password Crack](#password-crack)
 - [Bug Bounty programs](#bug-bounty-programs)
   - [Extra Materials](#extra-materials)
 - [Specific resources](#specific-resources)
@@ -184,9 +185,14 @@ A place of knowedge
 
 # Wordlists
 
+- [WeakPass](https://weakpass.com)
 - [trickest](https://github.com/trickest/wordlists)
 - [SecLists](https://github.com/danielmiessler/SecLists)
 - [passphrase-wordlist](https://github.com/initstring/passphrase-wordlist)
+
+# Password Crack
+
+- [Online Hash Crack](https://www.onlinehashcrack.com)
 
 # Bug Bounty programs
 
