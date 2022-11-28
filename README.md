@@ -12,6 +12,7 @@ A place of knowedge
     - [General](#general-1)
     - [AWS](#aws)
     - [OSINT](#osint)
+    - [Threat Intelligence](#threat-intelligence)
   - [Hacking methodology](#hacking-methodology)
   - [Starting](#starting)
   - [Best search engines for Pentesters and Security Professionals](#best-search-engines-for-pentesters-and-security-professionals)
@@ -74,6 +75,11 @@ A place of knowedge
 - [holehe](https://github.com/megadose/holehe)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 
+### Threat Intelligence
+
+- [Criminal IP](https://www.criminalip.io)
+- [OTX AlienVault](https://otx.alienvault.com)
+- [IBM  X-Force Exchange](https://exchange.xforce.ibmcloud.com)
 ## Hacking methodology
 
 - [HackTricks Book](https://book.hacktricks.xyz/welcome/readme)
