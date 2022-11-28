@@ -65,7 +65,7 @@ A place of knowedge
 - [Pacu - AWS Exploitation framework](https://github.com/RhinoSecurityLabs/pacu)
 - [AWS Security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 - [prowler](https://github.com/prowler-cloud/prowler)
-- 
+
 
 ### OSINT
 
@@ -84,7 +84,7 @@ A place of knowedge
 
 - [HackTricks Book](https://book.hacktricks.xyz/welcome/readme)
 - [Penetration Testing Cheat Sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet)
-- 
+
 ## Starting
 
 - [Cyber-Labs-Get-Started](https://github.com/Cyber-Labs/Cyber-Labs-Get-Started)
@@ -206,7 +206,7 @@ A place of knowedge
  - [BugCrowd](https://bugcrowd.com/programs)
  - [Intigriti](https://www.intigriti.com)
  - [Synack](https://www.synack.com)
-  
+
 
 ## Extra Materials
 
