@@ -74,6 +74,7 @@ A place of knowedge
 - [maigret](https://github.com/soxoj/maigret)
 - [holehe](https://github.com/megadose/holehe)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
+- [Email Reputation](https://emailrep.io/)
 
 ### Threat Intelligence
 
