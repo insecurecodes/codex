@@ -26,6 +26,7 @@ A place of knowedge
   - [General](#general-2)
   - [AWS](#aws-1)
 - [Wordlists](#wordlists)
+- [Fuzzing](#fuzzing)
 - [Password Crack](#password-crack)
 - [Bug Bounty programs](#bug-bounty-programs)
   - [Extra Materials](#extra-materials)
@@ -199,6 +200,9 @@ A place of knowedge
 - [SecLists](https://github.com/danielmiessler/SecLists)
 - [passphrase-wordlist](https://github.com/initstring/passphrase-wordlist)
 
+# Fuzzing
+
+- [recollapse](https://github.com/0xacb/recollapse)
 # Password Crack
 
 - [Online Hash Crack](https://www.onlinehashcrack.com)
