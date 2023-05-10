@@ -192,6 +192,8 @@ A place of knowedge
 
 # Wordlists
 
+- [Assetnote](https://wordlists.assetnote.io/)
+- [Kaggle](https://www.kaggle.com/datasets?tags=12107-Computer+Science)
 - [WeakPass](https://weakpass.com)
 - [trickest](https://github.com/trickest/wordlists)
 - [SecLists](https://github.com/danielmiessler/SecLists)
