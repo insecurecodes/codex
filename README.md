@@ -201,7 +201,7 @@ A place of knowedge
 - [passphrase-wordlist](https://github.com/initstring/passphrase-wordlist)
 
 # Fuzzing
-
+- [Kiterunner(api specific)](https://github.com/assetnote/kiterunner)
 - [recollapse](https://github.com/0xacb/recollapse)
 # Password Crack
 
