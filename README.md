@@ -19,9 +19,11 @@ A place of knowedge
   - [Best search engines for Pentesters and Security Professionals](#best-search-engines-for-pentesters-and-security-professionals)
   - [CTF](#ctf)
   - [Labs](#labs)
+    - [Blue Team](#blue-team)
+    - [AppSec](#appsec)
   - [SSE](#sse)
   - [Red Team](#red-team)
-  - [Blue Team](#blue-team)
+  - [Blue Team](#blue-team-1)
 - [Certification material](#certification-material)
 - [Cloud](#cloud)
   - [General](#general-2)
@@ -139,14 +141,12 @@ A place of knowedge
 - [HackTheBox](https://www.hackthebox.com)
 - [Vuln Hub](https://www.vulnhub.com)
 - [OWASP WrongSecrets](https://github.com/commjoen/wrongsecrets)
-- [Hacksplaining](https://www.hacksplaining.com/lessons)
 - [HackerRank](https://www.hackerrank.com/dashboard)
 - [Explotation Education](https://exploit.education/)
 - [offensive security Labs](https://www.offensive-security.com/labs/individual/)
 - [capturetheflag BR](https://capturetheflag.com.br/login.php)
 - [Attack-Defence](https://attackdefense.com/)
 - [alert(1) to win](https://alf.nu/alert1)
-- [CTF Komodo Security](https://ctf.komodosec.com/)
 - [CryptoHack](https://cryptohack.org/)
 - [cmdchallenge](https://cmdchallenge.com/)
 - [Google CTF](https://capturetheflag.withgoogle.com/)
@@ -159,6 +159,18 @@ A place of knowedge
 - [Root in Jail](http://rootinjail.com)
 - [amanhardikar](https://www.amanhardikar.com/mindmaps/Practice.html)
 - [pwnable](https://pwnable.kr/play.php)
+
+### Blue Team
+
+- [LetsDefend](https://app.letsdefend.io/)
+- [CyberDefenders](https://cyberdefenders.org/)
+- [Blueteamlabs](https://blueteamlabs.online)
+
+### AppSec
+
+- [CTF Komodo Security](https://ctf.komodosec.com/)
+- [Hacksplaining](https://www.hacksplaining.com/lessons)
+- [alf.nu - XSS](https://alf.nu/alert1?world=alert&level=alert0)
 
 ## SSE
 
@@ -176,7 +188,6 @@ A place of knowedge
 
 ## Blue Team
 
-- [Blueteamlabs](https://blueteamlabs.online)
 - [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 
 # Certification material
