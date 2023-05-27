@@ -8,6 +8,7 @@ A place of knowedge
 - [Links](#links)
   - [General](#general)
   - [Academy](#academy)
+  - [Other libraries/guides](#other-librariesguides)
   - [Tools](#tools)
     - [General](#general-1)
     - [AWS](#aws)
@@ -57,6 +58,10 @@ A place of knowedge
 - [Zero to Mastery](https://zerotomastery.io/courses/learn-ethical-hacking/)
 - [Ethical Hackers Academy](https://ethicalhackersacademy.com/collections/ethical-hacking-course)
 
+## Other libraries/guides
+
+- [Exploit Notes](https://exploit-notes.hdks.org/)
+- [Red Team Guide](https://dmcxblue.gitbook.io/red-team-notes-2-0/files/red-team-guide)
 ## Tools
 
 ### General
