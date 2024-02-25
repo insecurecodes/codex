@@ -6,6 +6,7 @@ A place of knowedge
 
 - [Athenaeum](#athenaeum)
 - [Links](#links)
+  - [Most notable links](#most-notable-links)
   - [General](#general)
   - [Academy](#academy)
   - [Other libraries/guides](#other-librariesguides)
@@ -32,10 +33,16 @@ A place of knowedge
 - [Fuzzing](#fuzzing)
 - [Password Crack](#password-crack)
 - [Bug Bounty programs](#bug-bounty-programs)
+- [Infosec](#infosec)
   - [Extra Materials](#extra-materials)
 - [Specific resources](#specific-resources)
   - [Active Directory](#active-directory)
 - [Miscellaneous / Interesting stuff](#miscellaneous--interesting-stuff)
+
+## Most notable links
+
+- [HackTricks Book](https://book.hacktricks.xyz/welcome/readme)
+
 
 ## General
 
@@ -89,9 +96,9 @@ A place of knowedge
 - [Criminal IP](https://www.criminalip.io)
 - [OTX AlienVault](https://otx.alienvault.com)
 - [IBM  X-Force Exchange](https://exchange.xforce.ibmcloud.com)
+
 ## Hacking methodology
 
-- [HackTricks Book](https://book.hacktricks.xyz/welcome/readme)
 - [Penetration Testing Cheat Sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet)
 
 ## Starting
@@ -204,6 +211,7 @@ A place of knowedge
 ## General
 
 - [Hacking The Cloud](https://hackingthe.cloud)
+- [Cloud Security Attacks](https://github.com/CyberSecurityUP/Cloud-Security-Attacks)
 ## AWS
 
 - [AWSGoat](https://github.com/ine-labs/AWSGoat)
@@ -231,6 +239,9 @@ A place of knowedge
  - [Intigriti](https://www.intigriti.com)
  - [Synack](https://www.synack.com)
 
+# Infosec
+
+- [Reports](https://github.com/CyberSecurityUP/information-security-relatory)
 
 ## Extra Materials
 
@@ -256,6 +267,8 @@ docker run  nubank/systems-engineer
 
 - [Active Directory Security](https://adsecurity.org)
 - [harmj0y](https://blog.harmj0y.net)
+- [Lateral Movement and Post-Exploitation Cheat Sheet](https://medium.com/@saintlafi/active-directory-lateral-movement-and-post-exploitation-cheat-sheet-3170982a7055)
+- [General Cheat Sheet](https://medium.com/@saintlafi/active-directory-cheat-sheet-94e0bb9bed2)
 
 # Miscellaneous / Interesting stuff
 
