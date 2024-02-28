@@ -179,6 +179,10 @@ A place of knowedge
 - [CTF Komodo Security](https://ctf.komodosec.com/)
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
 - [alf.nu - XSS](https://alf.nu/alert1?world=alert&level=alert0)
+- API pentest
+  - [Pre-knowledge before entering into API Penetration Testing](https://aacle.notion.site/Pre-knowledge-before-entering-into-API-Penetration-Testing-e3ca0e7541af452388c49f413212848c)
+  - [Working of Web Application](https://aacle.notion.site/Working-of-Web-Application-f4cc72799f974d80b037d1a502c004fc)
+  - [API Hacking- RESTful API](https://aacle.notion.site/API-Hacking-RESTful-API-a18d3ec6b8304dc4867ec255914e4c77)
 
 ## SSE
 
