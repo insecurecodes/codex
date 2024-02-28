@@ -273,6 +273,9 @@ docker run  nubank/systems-engineer
 - [harmj0y](https://blog.harmj0y.net)
 - [Lateral Movement and Post-Exploitation Cheat Sheet](https://medium.com/@saintlafi/active-directory-lateral-movement-and-post-exploitation-cheat-sheet-3170982a7055)
 - [General Cheat Sheet](https://medium.com/@saintlafi/active-directory-cheat-sheet-94e0bb9bed2)
+- [AzureADRecon](https://github.com/adrecon/AzureADRecon)
+- [ADRecon](https://github.com/adrecon/ADRecon)
+
 
 # Miscellaneous / Interesting stuff
 
