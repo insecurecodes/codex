@@ -42,7 +42,7 @@ A place of knowedge
 ## Most notable links
 
 - [HackTricks Book](https://book.hacktricks.xyz/welcome/readme)
-
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 
 ## General
 
@@ -69,9 +69,11 @@ A place of knowedge
 
 - [Exploit Notes](https://exploit-notes.hdks.org/)
 - [Red Team Guide](https://dmcxblue.gitbook.io/red-team-notes-2-0/files/red-team-guide)
+
 ## Tools
 
 ### General
+
 - [AllinOne](https://github.com/Z4nzu/hackingtool)
 - [Legion](https://github.com/carlospolop/legion)
 
@@ -80,7 +82,6 @@ A place of knowedge
 - [Pacu - AWS Exploitation framework](https://github.com/RhinoSecurityLabs/pacu)
 - [AWS Security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 - [prowler](https://github.com/prowler-cloud/prowler)
-
 
 ### OSINT
 
@@ -143,7 +144,6 @@ A place of knowedge
 - [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 - [ctf hacker101](https://ctf.hacker101.com)
 
-
 ## Labs
 
 - [HackTheBox](https://www.hackthebox.com)
@@ -161,8 +161,8 @@ A place of knowedge
 - [Defend the web](https://defendtheweb.net/)
 - [Hacker 101](https://ctf.hacker101.com/)
 - [Over the wire](https://overthewire.org/wargames/)
--  [The Cryptopals Crypto Challenges](https://cryptopals.com)
--  [W3Challs](https://w3challs.com) 
+- [The Cryptopals Crypto Challenges](https://cryptopals.com)
+- [W3Challs](https://w3challs.com)
 - [Root-Me](https://www.root-me.org)
 - [Root in Jail](http://rootinjail.com)
 - [amanhardikar](https://www.amanhardikar.com/mindmaps/Practice.html)
@@ -209,13 +209,13 @@ A place of knowedge
 - [eCXD prep](https://github.com/CyberSecurityUP/eCXD-Preparation)
 - [eWPTX prep](https://github.com/CyberSecurityUP/eWPTX-Preparation)
 
-
 # Cloud
 
 ## General
 
 - [Hacking The Cloud](https://hackingthe.cloud)
 - [Cloud Security Attacks](https://github.com/CyberSecurityUP/Cloud-Security-Attacks)
+
 ## AWS
 
 - [AWSGoat](https://github.com/ine-labs/AWSGoat)
@@ -230,18 +230,20 @@ A place of knowedge
 - [passphrase-wordlist](https://github.com/initstring/passphrase-wordlist)
 
 # Fuzzing
+
 - [Kiterunner(api specific)](https://github.com/assetnote/kiterunner)
 - [recollapse](https://github.com/0xacb/recollapse)
+
 # Password Crack
 
 - [Online Hash Crack](https://www.onlinehashcrack.com)
 
 # Bug Bounty programs
 
- - [HackerOne](https://www.hackerone.com)
- - [BugCrowd](https://bugcrowd.com/programs)
- - [Intigriti](https://www.intigriti.com)
- - [Synack](https://www.synack.com)
+- [HackerOne](https://www.hackerone.com)
+- [BugCrowd](https://bugcrowd.com/programs)
+- [Intigriti](https://www.intigriti.com)
+- [Synack](https://www.synack.com)
 
 # Infosec
 
@@ -251,7 +253,7 @@ A place of knowedge
 
 - [Cyber Sec Resources](https://github.com/scspcommunity/Cyber-Sec-Resources)
 - [Cyber Sec Resources 2](https://github.com/vlakhani28/Cyber-Security-Resources)
-- [List of courses and resources](https://github.com/rajprasad12/Cyber-Security-Resources) 
+- [List of courses and resources](https://github.com/rajprasad12/Cyber-Security-Resources)
 - [List of courses](https://github.com/onlurking/awesome-infosec)
 - [List of courses 2](https://github.com/emtuls/Awesome-Cyber-Security-List)
 - [StefanAustin - Free MAterials](https://github.com/StefanAustin/free_materials)
@@ -260,6 +262,7 @@ A place of knowedge
 - [Tool sets](https://github.com/sbilly/awesome-security)
 
 - Nubank test
+
 ```
 docker run  nubank/systems-engineer
 
@@ -275,7 +278,6 @@ docker run  nubank/systems-engineer
 - [General Cheat Sheet](https://medium.com/@saintlafi/active-directory-cheat-sheet-94e0bb9bed2)
 - [AzureADRecon](https://github.com/adrecon/AzureADRecon)
 - [ADRecon](https://github.com/adrecon/ADRecon)
-
 
 # Miscellaneous / Interesting stuff
 
